@@ -1,4 +1,4 @@
-# Arrays README
+# 1-D Arrays README
 This folder contains foundational algorithms and operations performed on 1D arrays. The concepts covered include searching, modifying, and extracting specific mathematical properties from arrays.
 
 1. Linear Search
